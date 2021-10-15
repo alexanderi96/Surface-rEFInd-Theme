@@ -3,7 +3,7 @@ Repository created in order to prevent the loss of this awesome theme found on [
 
 
 # rEFInd Theme for Surface devices
-https://www.reddit.com/user/frebib/
+
 ## Installation:
 
 Copy the surface-theme folder into your refind directory (or Microsoft/Boot directory if you are hijacking the Windows bootloader on your Surface) and add the following line to your refind.conf:
